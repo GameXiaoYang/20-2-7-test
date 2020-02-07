@@ -1,0 +1,12 @@
+socket API
+创建项目的宏
+
+
+
+solutionDir 解决方案目录
+platform    平台
+configuration 配置
+projectname 项目名
+IPADDR_ARY
+IPPROTO_TCP
+SOCK_DGRAM
